@@ -6,8 +6,6 @@ HSMW Algorithms and Data Structures Course from the University of Applied Scienc
 
 ## Tools
 
-### Java Practical 1-2
 [Eclipse](https://www.eclipse.org)
 
-### C# Practical 3-5
 [Unity](https://unity.com/)
