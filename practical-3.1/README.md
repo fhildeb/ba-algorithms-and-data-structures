@@ -1,0 +1,5 @@
+# MinimalSpanningTree
+
+## GUI
+
+WIP
