@@ -1,4 +1,4 @@
-# MinimalSpanningTree
+# MinimumSpanningTree
 
 ## Description
 
