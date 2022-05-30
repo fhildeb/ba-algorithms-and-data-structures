@@ -56,7 +56,7 @@ true
 ```
 
 
-## Semimagisches_Quadrat (Main
+## Semimagisches_Quadrat (Main)
 
 ### Terminal Output
 
