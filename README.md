@@ -4,6 +4,20 @@ HSMW Algorithms and Data Structures Course from the University of Applied Scienc
 
 > **_NOTE:_** Commentary and filenames might appear in German.
 
+## Contents
+
+1. Array and Matrix Measures
+   - Array Creation and Formatting Tool
+   - Matrix Calculation Tool
+   - Semimagic Square Checker
+   - Snail Matix Algorithm
+2. Lists and Search Functions
+   - Double Linked List Framework
+   - Search Algorithm Benchmark Tool
+3. Visual Graph Spanning Tree Generation
+4. Visual Implementation of the Selection Sort Algorithm
+5. Visual Implementation of the Insertion Sort Algorithm
+
 ## Tools
 
 - [Eclipse](https://www.eclipse.org)

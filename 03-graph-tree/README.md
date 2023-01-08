@@ -22,7 +22,7 @@ Program to built 2D graphs from nodes and relation whights in order to calculate
 - Visual feedback for the search algorithm
 - Text description for step commentary
 
-## Graph Showcase
+## Showcase
 
 ![Practical 3 Screenshot 1](../img/practical_3_01.png)
 ![Practical 3 Screenshot 2](../img/practical_3_02.png)
