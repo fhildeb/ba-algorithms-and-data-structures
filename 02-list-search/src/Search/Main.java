@@ -1,4 +1,4 @@
-package SearchAlgorithms;
+package Search;
 
 import java.io.IOException;
 
@@ -9,20 +9,23 @@ public class Main
    {
       String[] strings =
       {
-         "Affe", "Banane", "Charme", "Dummkopf", "Edelschimmel", "Fehlertoleranz", "Gabel"
+         "Ape", "Banana", "Charm", "Fool", "Noble", "Fault", "Fork"
       };
       
+      System.out.println("3rd Array Test");
+      System.out.println("Naive Search:");
       System.out.println(SearchAlgorithms.naiveSearch(strings, "Charme"));
+      System.out.println("Binary Search:");
       System.out.println(SearchAlgorithms.binarySearch(strings, "Charme"));
       System.out.println("-");
       
+      System.out.println("");
+      System.out.println("6th Array Test");
+      System.out.println("Naive Search:");
       System.out.println(SearchAlgorithms.naiveSearch(strings, "Fehlertoleranz"));
+      System.out.println("Binary Search:");
       System.out.println(SearchAlgorithms.binarySearch(strings, "Fehlertoleranz"));
       System.out.println("-");
-      
-//      SearchBenchmark.run(strings, false);
-//      SearchBenchmark.run(50, false);
-//      SearchBenchmark.run(1000, false);
    }
 }
 
