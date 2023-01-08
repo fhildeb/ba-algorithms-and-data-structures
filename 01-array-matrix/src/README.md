@@ -1,6 +1,23 @@
 # Arrays
 
-## ArrayUtils (Main)
+## Utility Tool
+
+> ArrayUtils.java
+
+One-dimensional class framework for array methods to manage them and output them formatted in the terminal.
+
+### Class Functionality
+
+- Reverse element order
+- Append element at the end
+- Insert element arbitrarily
+- Automated dummy returns
+
+### Array Formatting
+
+- Using StringBuilder for performant string assembly
+- Places characters before and after elements
+- Each array element goes through full loop
 
 ### Terminal Output
 
@@ -16,7 +33,26 @@ End of regular Expression
 
 # Matrix
 
-## Matrix (Main)
+## Utility Tool
+
+> Matrix.java
+
+Two-dimensional class framework for matrix methods to generate empty matrices in given sizes.
+
+### Class Functionality
+
+- Uses one-dimensional array of values
+- Distributes this for each matrix row
+- Form row sum
+- Create row sum
+- Transpose matrix
+
+### Matrix Formatting
+
+- Formatting as string
+- StringBuilder for performant assembly
+- Places characters before and after elements
+- Each array element goes through full loop
 
 ### Terminal Output
 
@@ -27,7 +63,9 @@ End of regular Expression
 
 [       4,        8,       13,       20]
 [      20,       10,       15]
-transposed: 
+
+transposed:
+
 ┌       2,        1,        1┐
 │       4,        2,        2│
 │       6,        3,        4│
@@ -44,7 +82,13 @@ transposed:
 true
 ```
 
-## Schnecke (Main)
+## Snail Builder
+
+> Schnecke.java
+
+Suitable custom implementation to fill a matrix of any size starting from the upper left corner with ascending numbers starting from 1 in a spiral fashion.
+
+![Matrix Snail Algorightm](/img/practical_1.png)
 
 ### Terminal Output
 
@@ -55,8 +99,11 @@ true
 └      12,       11,       10,        9,        8┘
 ```
 
+## Semimagic Square
 
-## Semimagisches_Quadrat (Main)
+> Semimagic_Square.java
+
+The Application is able to check if the matrix as a semimagic square. A semimagic square of edge length n is a square arrangement of the natural numbers so that the sum of the numbers of all rows and columns is equal.
 
 ### Terminal Output
 
@@ -66,5 +113,5 @@ true
 │       9,        6,        7,       12│
 └       4,       15,       14,        1┘
 
-Klasse
+It is a semimagic square matrix.
 ```
