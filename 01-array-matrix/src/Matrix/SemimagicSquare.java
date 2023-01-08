@@ -1,6 +1,6 @@
 package Matrix;
 
-public class Semimagic_Square {
+public class SemimagicSquare {
     public static boolean requals(Matrix n)
     {
         int[] summe = n.getRowSums();

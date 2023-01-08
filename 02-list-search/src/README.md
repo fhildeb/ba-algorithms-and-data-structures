@@ -2,7 +2,7 @@
 
 ## Double Linked List
 
-> DoubleLinkedList.java
+> `./Lists/DoubleLinkedList.java`
 
 Entity Class of a double-linked list through interface and list node where each element of the list points to predecessor and successor. The list ends can the be be recognized automatically by the missing reference.
 
@@ -25,7 +25,7 @@ Entity Class of a double-linked list through interface and list node where each 
 
 ## Search Algorithm Speedtest
 
-> Main.java
+> `./Search/Main.java`
 
 Framework and Tester to collectively store sets of algorithms and measure their performance of each other against them.
 

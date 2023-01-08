@@ -1,6 +1,6 @@
 package Matrix;
 
-public class Schnecke {
+public class SnailBuilder {
 
     public static void main(String[] args)
     {

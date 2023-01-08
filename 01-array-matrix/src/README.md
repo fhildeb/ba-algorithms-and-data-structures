@@ -2,7 +2,7 @@
 
 ## Utility Tool
 
-> ArrayUtils.java
+> `./Arrays/ArrayUtils.java`
 
 One-dimensional class framework for array methods to manage them and output them formatted in the terminal.
 
@@ -35,7 +35,7 @@ End of regular Expression
 
 ## Utility Tool
 
-> Matrix.java
+> `./Matrix/Matrix.java`
 
 Two-dimensional class framework for matrix methods to generate empty matrices in given sizes.
 
@@ -84,7 +84,7 @@ true
 
 ## Snail Builder
 
-> Schnecke.java
+> `./Matrix/SnailBuilder.java`
 
 Suitable custom implementation to fill a matrix of any size starting from the upper left corner with ascending numbers starting from 1 in a spiral fashion.
 
@@ -101,7 +101,7 @@ Suitable custom implementation to fill a matrix of any size starting from the up
 
 ## Semimagic Square
 
-> Semimagic_Square.java
+> `./Matrix/SemimagicSquare.java`
 
 The Application is able to check if the matrix as a semimagic square. A semimagic square of edge length n is a square arrangement of the natural numbers so that the sum of the numbers of all rows and columns is equal.
 
